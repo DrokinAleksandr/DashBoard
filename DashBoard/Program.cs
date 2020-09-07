@@ -10,6 +10,10 @@ namespace DashBoard
     {
         static void Main(string[] args)
         {
+
+            int t;
+            int t;
+
         }
     }
 }
